@@ -702,6 +702,13 @@
         ]
     },
     {
+        "id": "electronmc",
+        "name": "ElectronMC",
+        "addresses": [
+            "electronmc.us"
+        ]
+    },
+    {
         "id": "crotus",
         "name": "Crotus",
         "addresses": [
